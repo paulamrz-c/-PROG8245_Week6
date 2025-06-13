@@ -1,0 +1,7 @@
+tripduration,starttime,stoptime,start station id,start station name,start station latitude,start station longitude,end station id,end station name,end station latitude,end station longitude,bikeid,usertype,birth year,gender
+542,1/1/2015 0:21,1/1/2015 0:30,115,Porter Square Station,42.387995,-71.119084,96,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,277,Subscriber,1984,1
+438,1/1/2015 0:27,1/1/2015 0:34,80,MIT Stata Center at Vassar St / Main St,42.3619622,-71.0920526,95,Cambridge St - at Columbia St / Webster Ave,42.372969,-71.094445,648,Subscriber,1985,1
+254,1/1/2015 0:31,1/1/2015 0:35,91,One Kendall Square at Hampshire St / Portland St,42.366277,-71.09169,68,Central Square at Mass Ave / Essex St,42.36507,-71.1031,555,Subscriber,1974,1
+432,1/1/2015 0:53,1/1/2015 1:00,115,Porter Square Station,42.387995,-71.119084,96,Cambridge Main Library at Broadway / Trowbridge St,42.373379,-71.111075,1307,Subscriber,1987,1
+735,1/1/2015 1:07,1/1/2015 1:19,105,Lower Cambridgeport at Magazine St/Riverside Rd,42.356954,-71.113687,88,Inman Square at Vellucci Plaza / Hampshire St,42.374035,-71.101427,177,Customer,1986,2
+311,1/1/2015 1:28,1/1/2015 1:33,88,Inman Square at Vellucci Plaza / Hampshire St,42.374035,-71.101427,76,Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St,42.366426,-71.105495,685,Subscriber,1989,1
